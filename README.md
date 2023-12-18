@@ -1,5 +1,5 @@
 <h1 align="center">The industrialAI Canvas</h1>
-<p align="center">Collaboratively ideate, iterate and build ML-based solutions for industrial applications.</p>
+<p align="center">🏭 Collaboratively ideate, iterate and build ML-based solutions for industrial applications.</p>
 
 <p align="center"><a href="https://github.com/Renumics/industrial-ai-canvas"><img src="industrial-ai-canvas-example.png" width="100%"/></a></p>
 
